@@ -1,0 +1,1 @@
+Face detection-image processing project in .Net with source code.In this project,Face are Detected from image.you can also compare two faces to find a similarities.This project can be used for face based Log-In System.
